@@ -1,6 +1,0 @@
-management:
-  cloudfoundry:
-    skip-ssl-validation: true
-
-message: Hello there!
-
